@@ -40,6 +40,6 @@ After 50 epochs, the accuracy achieved about 97.2%
 </p>
 
 <p align="center">
- <img src="./img/image2_reslt.jpg" alt="Overview" width="100%" height="100%">
+ <img src="./img/image2_result.jpg" alt="Overview" width="100%" height="100%">
 </p>
 
